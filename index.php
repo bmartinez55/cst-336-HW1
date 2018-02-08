@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
          <title>Homework #1</title>
        <h1 style="Color:white;">Viruses</h1>
-       <style type="text/css">
+       <style>
             @import url("CSS/styles.css");
         </style>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
